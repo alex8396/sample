@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-class Main extends Component {
-    render() {
-        return (
+class Main extends React.Component {
+    render(){
+        return( 
             <div><p>오후에는?</p></div>
         );
     }
